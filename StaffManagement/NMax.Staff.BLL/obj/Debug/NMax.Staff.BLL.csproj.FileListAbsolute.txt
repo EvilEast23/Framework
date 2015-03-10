@@ -1,5 +1,0 @@
-C:\Project\StaffManagement\NMax.Staff.BLL\bin\Debug\NMax.Staff.BLL.dll
-C:\Project\StaffManagement\NMax.Staff.BLL\bin\Debug\NMax.Staff.BLL.pdb
-C:\Project\StaffManagement\NMax.Staff.BLL\obj\Debug\NMax.Staff.BLL.dll
-C:\Project\StaffManagement\NMax.Staff.BLL\obj\Debug\NMax.Staff.BLL.pdb
-C:\Project\StaffManagement\NMax.Staff.BLL\obj\Debug\NMax.Staff.BLL.csprojResolveAssemblyReference.cache

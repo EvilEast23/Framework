@@ -1,6 +1,0 @@
-C:\Project\StaffManagement\NMax.Staff.WebApiHost\bin\Debug\NMax.Staff.WebApiHost.dll.config
-C:\Project\StaffManagement\NMax.Staff.WebApiHost\bin\Debug\NMax.Staff.WebApiHost.dll
-C:\Project\StaffManagement\NMax.Staff.WebApiHost\bin\Debug\NMax.Staff.WebApiHost.pdb
-C:\Project\StaffManagement\NMax.Staff.WebApiHost\obj\Debug\NMax.Staff.WebApiHost.dll
-C:\Project\StaffManagement\NMax.Staff.WebApiHost\obj\Debug\NMax.Staff.WebApiHost.pdb
-C:\Project\StaffManagement\NMax.Staff.WebApiHost\obj\Debug\NMax.Staff.WebApiHost.csprojResolveAssemblyReference.cache

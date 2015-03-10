@@ -1,5 +1,0 @@
-C:\Project\StaffManagement\NMax.Staff.DAL\bin\Debug\NMax.Staff.DAL.dll
-C:\Project\StaffManagement\NMax.Staff.DAL\bin\Debug\NMax.Staff.DAL.pdb
-C:\Project\StaffManagement\NMax.Staff.DAL\obj\Debug\NMax.Staff.DAL.dll
-C:\Project\StaffManagement\NMax.Staff.DAL\obj\Debug\NMax.Staff.DAL.pdb
-C:\Project\StaffManagement\NMax.Staff.DAL\obj\Debug\NMax.Staff.DAL.csprojResolveAssemblyReference.cache
