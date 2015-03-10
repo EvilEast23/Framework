@@ -1,0 +1,4 @@
+C:\Project\StaffManagement\NMax.Staff.Common\bin\Debug\NMax.Staff.Common.dll
+C:\Project\StaffManagement\NMax.Staff.Common\bin\Debug\NMax.Staff.Common.pdb
+C:\Project\StaffManagement\NMax.Staff.Common\obj\Debug\NMax.Staff.Common.dll
+C:\Project\StaffManagement\NMax.Staff.Common\obj\Debug\NMax.Staff.Common.pdb

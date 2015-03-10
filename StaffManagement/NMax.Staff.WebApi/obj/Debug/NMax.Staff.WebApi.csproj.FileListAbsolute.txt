@@ -1,0 +1,5 @@
+C:\Project\StaffManagement\NMax.Staff.WebApi\bin\Debug\NMax.Staff.WebApi.dll
+C:\Project\StaffManagement\NMax.Staff.WebApi\bin\Debug\NMax.Staff.WebApi.pdb
+C:\Project\StaffManagement\NMax.Staff.WebApi\obj\Debug\NMax.Staff.WebApi.dll
+C:\Project\StaffManagement\NMax.Staff.WebApi\obj\Debug\NMax.Staff.WebApi.pdb
+C:\Project\StaffManagement\NMax.Staff.WebApi\obj\Debug\NMax.Staff.WebApi.csprojResolveAssemblyReference.cache

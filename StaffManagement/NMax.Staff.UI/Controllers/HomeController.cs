@@ -1,0 +1,24 @@
+﻿using NMax.Staff.UI.Filters;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
+using System.Web.Security;
+
+namespace NMax.Staff.UI.Controllers
+{
+    [NMaxSecurity("Admin")]
+    public class HomeController : BaseController
+    {
+        //
+        // GET: /Home/
+
+        public ActionResult Index()
+        {
+            FormsAuthentication.SignOut();
+            return View();
+        }
+
+    }
+}
